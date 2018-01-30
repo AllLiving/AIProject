@@ -1,0 +1,18 @@
+小数据集分析
+算法原理 point
+流程图 主次分清
+优化远非调参
+README.txt
+
+ @全体成员 后面pre的组是最后一周了，所以应该重点讲优化，创新和结果。这周实验课的pre整体反倒没有前一周的好，希望大家不要盲目调参优化，或者跟风试算法，经过思考之后，对某个模型专一优化，比起随便试会更加有价值，也更加有效，以前就说过了思考的重要性。提示一下，有人说报告里不知道要写什么，觉得说一下做了什么做法贴一些图就没了，报告里要重点说一些“为什么”，比如说为什么二元用knn效果好？为什么xx距离好？这些如果有理论依据会更好，以及一些初始化的处理，pre不够时间讲的都在报告里写清楚了，体现自己的思考过程，而不是只是简单阐述自己做了什么，不然可能报告体现不了你花在这个这个项目的时间和精力。
+
+
+Override onBindViewHolder-convert
+Data	template
+member--context, inflater
+
+Bundle is just traporter or bus
+and 
+intent is version change unit;
+
+Component Name;
